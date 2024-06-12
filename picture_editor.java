@@ -197,6 +197,8 @@ public class picture_editor extends javax.swing.JFrame {
         });
     }
 
+    
+
     // Variables declaration - do not modify                     
     private javax.swing.JButton blurr_btn;
     private javax.swing.JButton jButton1;
